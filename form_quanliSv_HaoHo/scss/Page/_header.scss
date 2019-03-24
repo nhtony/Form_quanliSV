@@ -1,0 +1,13 @@
+.myHeader{
+    margin: 50px;
+    .container{
+        text-align: center;
+        h1 {
+            background: -webkit-linear-gradient(#DAE2F8, #D6A4A4);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-transform: uppercase;
+          }
+    }
+    
+}
